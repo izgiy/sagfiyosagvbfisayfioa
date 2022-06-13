@@ -1,4 +1,3 @@
-alert("Мой 17 проект")
 var myVar = setInterval(function() {
     myTimer();
   }, 1000);
